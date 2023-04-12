@@ -1,4 +1,4 @@
-# VLOX: Intelligent Parking Automation
+# VEELOX: Intelligent Parking Automation
 
 Contributors: @rr2203, @vishnoitanuj, @bpahuja, @parvagarwal
 
